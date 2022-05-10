@@ -276,8 +276,8 @@ h1 {
   width: 320px;
 }
 .median .wealth {
-  width: 7.94px;
-  height: 7.94px;
+  width: 1.26px;
+  height: 1.26px;
 }
 .explainer {
   font-size: 16px;
@@ -287,12 +287,12 @@ h1 {
   width: 150px;
 }
 .million .wealth {
-  width: 31.62px;
-  height: 31.62px;
+  width: 4.37px;
+  height: 4.37px;
   background-color: #4CAF50;
 }
 .billion .wealth {
-  width: 2000px;
+  width: 176.24px;
   height: 500px;
   background-color: #03A9F4;
 }
