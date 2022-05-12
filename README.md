@@ -1,7 +1,6 @@
 # About
 
-Codigo fuente para https://mkorostoff.github.io/1-pixel-wealth/
-TODO: actualizar URl
+Codigo fuente para https://jaime-gacitua.github.io/1-pixel-wealth-Chile/
 
 # Fuentes
 
