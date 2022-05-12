@@ -17,6 +17,9 @@ h1 {
   width: 100%;
   margin-top: 100px;
 }
+h4 {
+  text-align: center;
+}
 .scroll-this-way {
   align-self: flex-end;
   width: 360px;
@@ -296,13 +299,65 @@ h1 {
   height: 500px;
   background-color: #03A9F4;
 }
+
+
+.davilazo .wealth {
+  width: 850px;
+  height: 500px;
+  background-color: #f5b2a3;
+}
+.inverlink .wealth {
+  width: 986px;
+  height: 500px;
+  background-color: #fa7b7b;
+}
+.cascadas .wealth {
+  width: 1411px;
+  height: 500px;
+  background-color: #fa6464;
+}
+.confort .wealth {
+  width: 1955px;
+  height: 500px;
+  background-color: #fd5757;
+}
+.pollos .wealth {
+  width: 6375px;
+  height: 500px;
+  background-color: #fc2424;
+}
+.chispas .wealth {
+  width: 6375px;
+  height: 500px;
+  background-color: #f40303;
+}
+
+.davilazo .key > span {
+  background-color: orange;
+}
+.inverlink .key > span {
+  background-color: orange;
+}
+.cascadas .key > span {
+  background-color: orange;
+}
+.confort .key > span {
+  background-color: orange;
+}
+.pollos .key > span {
+  background-color: orange;
+}
+.chispas .key > span {
+  background-color: orange;
+}
+
 @media (max-width: 450px) {
   .billion .wealth {
     border-bottom: 3px dotted #007fb7;
   }
 }
 .bezos .wealth {
-  width: 370000px;
+  width: 6375px;
   height: 500px;
   background-color: orange;
 }
@@ -320,7 +375,7 @@ h1 {
 .key {
   position: absolute;
   top: 450px;
-  width: 170px;
+  width: 176px;
   background-image: url(img/scale.1.0.svg);
   background-repeat: no-repeat;
   background-position: 0px 4px;
@@ -331,6 +386,9 @@ h1 {
   display: inline-block;
 }
 .bezos .key > span {
+  background-color: orange;
+}
+.davilazo .key > span {
   background-color: orange;
 }
 .four-hundred .key > span {
