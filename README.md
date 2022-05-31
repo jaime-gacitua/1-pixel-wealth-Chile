@@ -9,10 +9,10 @@ Codigo fuente para https://jaime-gacitua.github.io/1-pixel-wealth-Chile/
 - [Teleton Computo](https://www.teleton.cl/campana/)
  
 # About the Author
-Creado por Jaime Gacitua
 
-Proyecto original en USA por [Matt Korostoff](https://mkorostoff.github.io/)
+Diseno original por [Matt Korostoff](https://mkorostoff.github.io/)
+
+Adaptado por Jaime Gacitua
+
 
 # Donar
-
-Please consider making a donation to the [Against Malaria Foundation](https://www.againstmalaria.com/). They are not affiliated with this project in any way, I just really like them.

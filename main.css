@@ -333,6 +333,16 @@ h4 {
   height: 500px;
   background-color: #fa6464;
 }
+.metrogas .wealth {
+  width: 1700px;
+  height: 500px;
+  background-color: #fa6464;
+}
+.chispas .wealth {
+  width: 1700px;
+  height: 500px;
+  background-color: #f40303;
+}
 .confort .wealth {
   width: 1955px;
   height: 500px;
@@ -343,11 +353,13 @@ h4 {
   height: 500px;
   background-color: #fc2424;
 }
-.chispas .wealth {
-  width: 1700px;
+
+.GaAbLi .wealth {
+  width: 6655px;
   height: 500px;
-  background-color: #f40303;
+  background-color: #ff0909;
 }
+
 
 .pacogate .key > span {
   background-color: orange;
@@ -365,13 +377,20 @@ h4 {
 .cascadas .key > span {
   background-color: orange;
 }
+.metrogas .key > span {
+  background-color: orange;
+}
+.chispas .key > span {
+  background-color: orange;
+}
 .confort .key > span {
   background-color: orange;
 }
 .pollos .key > span {
   background-color: orange;
 }
-.chispas .key > span {
+
+.GaAbLi .key > span {
   background-color: orange;
 }
 
